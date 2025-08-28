@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noah Maxwell
 - 👀 I’m interested in computer languages and cybersecurity
 - 🌱 I’m currently learning C++
-- 💞️ I currently am a Sophomore at The University Of Tennessee Knoxville
+- 💞️ I currently am a Junior at The University Of Tennessee Knoxville
 - 📫 You can reach me at: noahmax08@gmail.com or nmaxwel5@vols.utk.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I broke the same are twice within one year.
